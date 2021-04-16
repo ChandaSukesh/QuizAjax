@@ -1,0 +1,11 @@
+var Q2=[
+    {
+        "1" :"Which team won IPL 2018 Title",
+        "a":"KKR",
+        "b":"CSK",
+        "c":"MII",
+        "d":"RCB"
+        "answer":"CSK"
+    
+    },
+   ]
