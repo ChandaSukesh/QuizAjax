@@ -1,0 +1,11 @@
+var Q1=[
+    {
+        "1" :"Which team won IPL 2020 Title",
+        "a":"SRH",
+        "b":"CSK",
+        "c":"MII",
+        "d":"RCB"
+        "answer":"MII"
+    
+    },
+   ]
