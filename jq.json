@@ -63,18 +63,5 @@
         "options":["SRH","CSK","MII","RCB"],
         "answer":"CSK"
     
-    },
-    
-    {
-        "question" :"Which team won IPL 2008 Title",
-        "options":["RRR","CSK","MII","RCB"],
-        "answer":"RRR"
-    
-    },
-    {
-        "question" :"Which team won IPL 2019 Title",
-        "options":["SRH","CSK","MII","RCB"],
-        "answer":"MII"
-    
     }
 ]
