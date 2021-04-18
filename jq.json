@@ -1,12 +1,12 @@
 [
     {
-        "1" :"Which team won IPL 2020 Title",
+        "question" :"Which team won IPL 2020 Title",
         "options":["SRH","CSK","MII","RCB"],
         "answer":"MII"
     
     },
     {
-        "2" :"Which team won IPL 2018 Title",
+        "question" :"Which team won IPL 2018 Title",
         "options":["SRH","CSK","MII","RCB"],
         "answer":"CSK"
     
