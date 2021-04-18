@@ -10,5 +10,71 @@
         "options":["SRH","CSK","MII","RCB"],
         "answer":"CSK"
     
-    }
+    },
+    
+    {
+        "question" :"Which team won IPL 2017 Title",
+        "options":["SRH","CSK","MII","RCB"],
+        "answer":"MII"
+    
+    },
+    
+    {
+        "question" :"Which team won IPL 2016 Title",
+        "options":["SRH","CSK","MII","RCB"],
+        "answer":"SRH"
+    
+    },
+    
+    {
+        "question" :"Which team won IPL 2015 Title",
+        "options":["SRH","CSK","MII","RCB"],
+        "answer":"MII"
+    
+    },
+    {
+        "question" :"Which team won IPL 2014 Title",
+        "options":["SRH","CSK","MII","KKR"],
+        "answer":"KKR"
+    
+    },
+    
+    {
+        "question" :"Which team won IPL 2013 Title",
+        "options":["SRH","CSK","MII","RCB"],
+        "answer":"MII"
+    
+    },
+    {
+        "question" :"Which team won IPL 2012 Title",
+        "options":["SRH","KKR","MII","RCB"],
+        "answer":"KKR"
+    
+    },
+    
+    {
+        "question" :"Which team won IPL 2011 Title",
+        "options":["SRH","CSK","MII","RCB"],
+        "answer":"CSK"
+    
+    },
+    {
+        "question" :"Which team won IPL 2010 Title",
+        "options":["SRH","CSK","MII","RCB"],
+        "answer":"CSK"
+    
+    },
+    
+    {
+        "question" :"Which team won IPL 2008 Title",
+        "options":["RRR","CSK","MII","RCB"],
+        "answer":"RRR"
+    
+    },
+    {
+        "question" :"Which team won IPL 2019 Title",
+        "options":["SRH","CSK","MII","RCB"],
+        "answer":"MII"
+    
+    },
 ]
