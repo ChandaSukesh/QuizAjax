@@ -1,4 +1,4 @@
-var Q1=[
+[
     {
         "1" :"Which team won IPL 2020 Title",
         "a":"SRH",
@@ -8,4 +8,4 @@ var Q1=[
         "answer":"MII"
     
     },
-   ]
+]
